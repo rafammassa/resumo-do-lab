@@ -37,3 +37,32 @@ Gastos de capital, ou seja, investimentos em ativos de longo prazo, como a compr
 # OPEX
 Despesas operacionais diárias, como a folha de pagamento, a água, a luz, o aluguel, entre outros. O OPEX é deduzido anualmente.
 
+# Benefícios da Computação em Nuvem
+
+## Escalabilidade
+Permite que as empresas aumentem ou diminuam os recursos de TI de acordo com a demanda.
+
+## Elasticidade
+Permite às empresas redimensionar os recursos tecnológicos de forma rápida e automática.
+
+## Confiabilidade
+Permite fazer backup de dados de forma fácil e barata, além de recuperar desastres e garantir a continuidade dos negócios.
+
+## Previsibilidade
+Permite que as empresas avancem com confiança no desempenho e no custo.
+
+## Segurança
+- Proteção de dados;
+- Visibilidade centralizada;
+- Redução de custos;
+- Prevenção de perda de dados;
+- Detecção de ameaças;
+- Recuperação de dados;
+- Determinação de causas de vazamento;
+- Redução d impacto de comprometimentos.
+
+## Governança
+Garante a segurança e conformidade das operações de computação em nuvem.
+
+# SLA
+Define o escopo de trabalho e estabelece quais serão as normas, os acordos, as metas e as demais questões relacionadas ao serviço que será prestado. 
