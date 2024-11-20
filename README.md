@@ -66,3 +66,26 @@ Garante a segurança e conformidade das operações de computação em nuvem.
 
 # SLA
 Define o escopo de trabalho e estabelece quais serão as normas, os acordos, as metas e as demais questões relacionadas ao serviço que será prestado. 
+
+# Tipos de Serviço de Nuvem
+
+## Iaas - Infraestrutura como serviço
+Configura e gerencia o hardware para o aplicativo.
+- Servidores e armazenamento;
+- Firewalls/segurança de rede;
+- Planta física/edifício do datacenter.
+
+## PaaS - Plataforma como serviço
+Fornece ambiente para criação, teste e implantação de aplicativos de software.
+- IaaS;
+- Sistemas operacionais;
+- Ferramentas para desenvolvedores, análise de negócios de gerenciamento de database.
+  
+## SaaS - Software como serviço
+Os usuários se conectam e usam aplicativos com base em nuvem pela internet. Pagamento conforme uso.
+- IaaS;
+- PaaS;
+- Aplicativos/apps hospedados.
+
+# Modelo de Responsabilidade Compartilhada
+![image](https://github.com/user-attachments/assets/20fde1a2-c561-4c02-b352-3c52aeda94cd)
